@@ -226,8 +226,16 @@ li {
     font-size: 35px;
 }
 
+.projectcontent p{
+	font-size:2em;
+line-height: 1.5; i
 
 
+
+}
+.a {
+    list-style-type: circle;
+}
 /* Menu Button */
 .menu-button {
 	position: fixed;
@@ -953,7 +961,10 @@ and (min-width : 551px){
         width: 50%;
     }
 }
+.intrenships{
+margin: auto;
 
+}
 
 .portfolio-item {
    width: 100%;
@@ -1176,11 +1187,11 @@ background: url(../images/parallax/bg-01.jpg);
 
 
 /*-------------------------------------------------*/
-/* Start Latest News Section                       */
+/* Start Blogs Section                       */
 /*-------------------------------------------------*/
 
 
-.latest-news-section {
+.blog-section {
     padding-top: 80px;
     padding-bottom: 60px;
 }
